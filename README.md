@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 20 y.o. ITMO, software development student <br>🧩 always on the lookout for new professional challenges  <br>👀 interested in development and data analysis <br>🫡 trying to obey the testing goat <br>🔭 currently working on DKD-tech website <br>🤯 strong theoretical background: mathematical statistics, machine learning, and probability theory<br><br>big fan of: <br>🐶 my precious little puppy girl <br>☕️ dark coffee <br>🧋 bubble tea (ironic isn't it?)<br>🇮🇹/🇫🇷/🇩🇪  learning new languages <br>🎮 playing mobile games (PUBG, mobile legends)<br>📖 reading (currently - "Three-Body Problem", sincerely recommend)<br>
+💻 21 y.o. ITMO, software development student <br>🧩 always on the lookout for new professional challenges  <br>👀 interested in development and data analysis <br>🫡 trying to obey the testing goat <br>🔭 currently working on DKD-tech website <br>🤯 strong theoretical background: mathematical statistics, machine learning, and probability theory<br><br>big fan of: <br>🐶 my precious little puppy girl <br>☕️ dark coffee <br>🧋 bubble tea (ironic isn't it?)<br>🇮🇹/🇫🇷/🇩🇪  learning new languages <br>🎮 playing mobile games (PUBG, mobile legends)<br>📖 reading (currently - "Three-Body Problem", sincerely recommend)<br>
 
 
 # 💻 Tech Stack:
