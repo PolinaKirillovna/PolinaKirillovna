@@ -1,15 +1,55 @@
-# 💫 About Me:
-💻 21 y.o. ITMO, software development student <br>🧩 always on the lookout for new professional challenges  <br>👀 interested in development and data analysis <br>🫡 trying to obey the testing goat <br>🔭 currently working on DKD-tech website <br>🤯 strong theoretical background: mathematical statistics, machine learning, and probability theory<br><br>big fan of: <br>🐶 my precious little puppy girl <br>☕️ dark coffee <br>🧋 bubble tea (ironic isn't it?)<br>🇮🇹/🇫🇷/🇩🇪  learning new languages <br>🎮 playing mobile games (PUBG, mobile legends)<br>📖 reading (currently - "Three-Body Problem", sincerely recommend)<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=150&section=header&text=Polina%20Derevitskaia&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="Polina Derevitskaia" />
+</p>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PolinaKirillovna&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PolinaKirillovna&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaKirillovna&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>ML engineer with a .NET backend foundation.</b><br/>
+  MSc in Deep Learning &amp; Generative AI @ ITMO University
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PolinaKirillovna&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I do
+
+- Build and ship **backend services on C#/.NET** — the engineering foundation behind everything else.
+- Train and evaluate **ML / generative models** (PyTorch, JAX, Transformers) with a bias for rigorous validation, not just headline metrics.
+- **Consult startups** on machine learning and backend architecture.
+- Care about how results are communicated — **LaTeX, reproducible repositories and honest reports**.
+
+### Selected work
+
+| Project | What it is |
+|---|---|
+| **[fashion-mnist-dcgan-robustness](https://github.com/PolinaKirillovna/fashion-mnist-dcgan-robustness)** | Unconditional **DCGAN** on Fashion-MNIST studied end to end: adversarial training, generator metrics (**domain-FID ≈ 39.5**) and robustness to class imbalance (mode dropping) and data poisoning. *Python · PyTorch* |
+| **[mnist-mlp-validation](https://github.com/PolinaKirillovna/mnist-mlp-validation)** | Two-layer MLP trained in **both PyTorch and JAX** (**macro-F1 0.979**), with data validation and interpretation (occlusion, saliency, first-layer weight maps). *Python · PyTorch · JAX* |
+| **[NLP-GAP-challenge](https://github.com/PolinaKirillovna/NLP-GAP-challenge)** | Gendered Pronoun Resolution: fine-tuned **DeBERTa-v3-large** with entity markers, EMA, multi-sample dropout and 5-fold cross-validation. *Python · Transformers* |
+| **[Boston-Housing-MLOps](https://github.com/PolinaKirillovna/Boston-Housing-MLOps)** | End-to-end **MLOps** pipeline around a regression model: **FastAPI** serving, **DVC**, **Docker** and CI/CD. *Python · FastAPI · Docker · DVC* |
+| **[DPK_cinemabot](https://github.com/PolinaKirillovna/DPK_cinemabot)** | Async **Telegram bot** for film and series lookup with history and stats. Live: **[@dpk_cinema_bot](https://t.me/dpk_cinema_bot)**. *Python · asyncio* |
+
+### Toolbox
+
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-0D1117?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-0D1117?style=flat-square&logo=dvc&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=flat-square&logo=latex&logoColor=white)
+
+### Now
+
+- MSc in **Deep Learning &amp; Generative AI** at ITMO University (in progress); BSc at ITMO (completed).
+- Engineer at **Monopoly** — a logistics platform.
+- Available for **startup consulting** in ML and backend.
+
+### Contact
+
+- GitHub — [@PolinaKirillovna](https://github.com/PolinaKirillovna)
+- LinkedIn — [polina-derevitskaia](https://www.linkedin.com/in/polina-derevitskaia-1645273b5/)
+- Telegram — [@maki_who](https://t.me/maki_who)
+- Email — [dpk.devwork@gmail.com](mailto:dpk.devwork@gmail.com)
