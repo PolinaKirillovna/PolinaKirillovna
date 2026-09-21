@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60" fill="none" role="img" aria-label="ML engineer with a .NET backend foundation">
+  <defs>
+    <linearGradient id="palette" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600" text-anchor="middle" fill="url(#palette)">
+    <text x="450" y="30" dominant-baseline="middle" opacity="0">ML engineer with a .NET backend foundation<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" additive="sum" values="0 6;0 0;0 0;0 0;0 0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="450" y="30" dominant-baseline="middle" opacity="0">MSc in Deep Learning &amp; Generative AI @ ITMO<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" additive="sum" values="0 6;0 0;0 0;0 0;0 0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="4s" repeatCount="indefinite"/></text>
+    <text x="450" y="30" dominant-baseline="middle" opacity="0">LaTeX, dark coffee and the Three-Body Problem<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" additive="sum" values="0 6;0 0;0 0;0 0;0 0" keyTimes="0;0.0667;0.2667;0.3333;1" dur="12s" begin="8s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
