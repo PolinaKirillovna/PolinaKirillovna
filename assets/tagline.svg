@@ -6,9 +6,24 @@
       <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
+  <style>
+    text {
+      opacity: 0;
+      animation: cycle 12s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    .l2 { animation-delay: -4s; }
+    .l3 { animation-delay: -8s; }
+    @keyframes cycle {
+      0%   { opacity: 0; }
+      10%  { opacity: 1; }
+      33%  { opacity: 1; }
+      43%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
   <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="url(#palette)">
-    <text x="450" y="30" opacity="0">ML engineer with a .NET backend foundation<animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite" calcMode="spline" values="0;1;1;0;0" keyTimes="0;0.05;0.2833;0.3333;1" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/></text>
-    <text x="450" y="30" opacity="0">MSc in Deep Learning &amp; Generative AI @ ITMO<animate attributeName="opacity" dur="12s" begin="4s" repeatCount="indefinite" calcMode="spline" values="0;1;1;0;0" keyTimes="0;0.05;0.2833;0.3333;1" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/></text>
-    <text x="450" y="30" opacity="0">LaTeX, dark coffee and the Three-Body Problem<animate attributeName="opacity" dur="12s" begin="8s" repeatCount="indefinite" calcMode="spline" values="0;1;1;0;0" keyTimes="0;0.05;0.2833;0.3333;1" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 0.2 1;0 0 1 1"/></text>
+    <text class="l1" x="450" y="30" opacity="0">ML engineer with a .NET backend foundation</text>
+    <text class="l2" x="450" y="30" opacity="0">MSc in Deep Learning &amp; Generative AI @ ITMO</text>
+    <text class="l3" x="450" y="30" opacity="0">LaTeX, dark coffee and the Three-Body Problem</text>
   </g>
 </svg>

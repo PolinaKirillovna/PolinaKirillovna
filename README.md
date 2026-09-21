@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,50:EC4899,100:22D3EE&animation=fadeIn&section=header&text=Polina%20Derevitskaia&fontSize=46&fontColor=ffffff&fontAlignY=30" width="100%" alt="Polina Derevitskaia" />
 
-<img src="assets/tagline.svg" width="100%" alt="ML engineer with a .NET backend foundation" />
+<img src="assets/tagline.svg" width="900" height="60" alt="ML engineer with a .NET backend foundation" />
 
 <br/>
 
