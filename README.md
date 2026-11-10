@@ -69,7 +69,14 @@ Async Telegram bot for film and series lookup with history and stats.<br/>
 <sub><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" /></sub>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/PolinaKirillovna/freight-rates-platform">freight-rates-platform</a></b><br/>
+Freight-rate analytics &amp; ML: idempotent ETL, PostgreSQL/ClickHouse marts, CatBoost price forecasting, Airflow and a Superset dashboard.<br/>
+<sub>Key result: <b>CatBoost MAPE 15.65%</b></sub><br/>
+<sub><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/ClickHouse-0D1117?style=flat-square&logo=clickhouse&logoColor=white" alt="ClickHouse" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></sub>
+
+</td>
 </tr>
 </table>
 
